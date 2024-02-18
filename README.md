@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Итоговая контрольная работа по основному блоку
 ## **Условия задачи**
 
@@ -117,6 +116,4 @@ void PrintArray(string[] array)
 >![Screenshot of commits](Снимок%20экрана%202024-02-19%20000259.png)
 
 >![Screenshot of commits](Снимок%20экрана%202024-02-19%20001803.png)
-=======
-# FundamentalsExam
->>>>>>> dee9a03f1d11839bab55a22b5b6ffb8d3ca91fe6
+
